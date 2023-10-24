@@ -1,0 +1,40 @@
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+
+.list-data {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  border-radius: 10px;
+  margin: 10px;
+  padding: 5px;
+}
+
+.data {
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+
+.container-data {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+img {
+  width: 150px;
+  border-radius: 10px;
+}
+
+.slick-prev {
+  left: 200px;
+  background-color: red;
+}

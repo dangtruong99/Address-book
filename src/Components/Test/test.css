@@ -1,0 +1,15 @@
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+.slick-prev {
+  left: 200px;
+  background-color: red;
+  padding: 20px;
+}
+.slick-next {
+  right: 200px;
+  background-color: red;
+  padding: 20px;
+}
+.image-cat {
+  width: 200px !important;
+}
